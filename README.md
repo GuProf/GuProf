@@ -2,6 +2,7 @@
 Meu nome é Gustavo Lemos
 
 Sou professor da rede estadual do Estado de São Paulo, onde leciono Física e Tecnologia.
+
 <!--
 **GuProf/GuProf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
