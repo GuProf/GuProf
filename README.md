@@ -1,5 +1,5 @@
 ### Olá!! 👋
-### Meu nome é Gustavo Lemos
+### Meu nome é **Gustavo Lemos**
 
 ### Sou professor da rede estadual do Estado de São Paulo, onde leciono Física e Tecnologia.
 ![](https://gifdb.com/images/high/confused-teacher-john-travolta-5w5ai5z3deqou95f.webp)
