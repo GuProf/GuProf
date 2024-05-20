@@ -2,6 +2,8 @@
 Meu nome é Gustavo Lemos
 
 Sou professor da rede estadual do Estado de São Paulo, onde leciono Física e Tecnologia.
+![](https://gifdb.com/images/high/confused-teacher-john-travolta-5w5ai5z3deqou95f.webp)
+
 
 <!--
 **GuProf/GuProf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
