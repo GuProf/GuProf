@@ -1,7 +1,12 @@
 Olá!! 👋
-### Meu nome é **Gustavo Lemos**
+Meu nome é **Gustavo Lemos**
 
-### Sou professor da rede estadual do Estado de São Paulo, onde leciono Física e Tecnologia.
+Sou professor da rede estadual do Estado de São Paulo, onde leciono Física e Tecnologia.
+
+Hi!! 👋
+My name is **Gustavo Lemos**
+
+I am a teacher at the state school in the State of São Paulo, where I teach Physics and Technology.
 ![](https://gifdb.com/images/high/confused-teacher-john-travolta-5w5ai5z3deqou95f.webp)
 
 
